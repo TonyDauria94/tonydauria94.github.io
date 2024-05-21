@@ -16,7 +16,7 @@
             return storedTheme
         }
 
-        return 'auto'
+        return 'dark'
         //return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
     }
 

@@ -3,222 +3,370 @@
         "id": 1,
         "title": "Vedere attraverso gli occhi",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/1.jpg"
+        "imgSrc": "./assets/img/1.jpg",
+        "diaframma": "f/20",
+        "esposizione": "1/50 sec",
+        "ISO": "100",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 2,
         "title": "Prende forma una nuova vita",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/2.jpg"
+        "imgSrc": "./assets/img/2.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 3,
         "title": "Timidamente ME",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/3.jpg"
+        "imgSrc": "./assets/img/3.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 4,
         "title": "Sospesa nello stupore delle luci",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/4.jpg"
+        "imgSrc": "./assets/img/4.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 5,
         "title": "Il numero primo di Dio non è il primo",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/5.jpg"
+        "imgSrc": "./assets/img/5.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img-bottom"
     },
     {
         "id": 6,
         "title": "Un principe al tramonto",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/6.jpg"
+        "imgSrc": "./assets/img/6.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 7,
         "title": "Aspettando il bacio",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/7.jpg"
+        "imgSrc": "./assets/img/7.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 8,
         "title": "Assaporare il Natale",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/8.jpg"
+        "imgSrc": "./assets/img/8.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 9,
         "title": "Creazione del Rock",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/9.jpg"
+        "imgSrc": "./assets/img/9.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 10,
         "title": "Nella mia solitudine ho te",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/10.jpg"
+        "imgSrc": "./assets/img/10.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 11,
         "title": "Iracondo nel mio Purgatorio",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/11.jpg"
+        "imgSrc": "./assets/img/11.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img-top"
     },
     {
         "id": 12,
         "title": "Doppia faccia",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/12.jpg"
+        "imgSrc": "./assets/img/12.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 13,
         "title": "Mondi nascosti nella radura",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/13.jpg"
+        "imgSrc": "./assets/img/13.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 14,
         "title": "Sguardo di gemelle diverse",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/14.jpg"
+        "imgSrc": "./assets/img/14.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 15,
         "title": "Lenti a contatto",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/15.jpg"
+        "imgSrc": "./assets/img/15.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 16,
         "title": "Prospettive di vita",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/16.jpg"
+        "imgSrc": "./assets/img/16.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 17,
         "title": "Il demone ti osserva",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/17.jpg"
+        "imgSrc": "./assets/img/17.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 18,
         "title": "Ritratto naturalistico",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/18.jpg"
+        "imgSrc": "./assets/img/18.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 19,
         "title": "La natura messa in ombra",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/19.jpg"
+        "imgSrc": "./assets/img/19.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 20,
         "title": "Il ghiotto di latte",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/20.jpg"
+        "imgSrc": "./assets/img/20.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 21,
         "title": "Civiltà nascoste",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/21.jpg"
+        "imgSrc": "./assets/img/21.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 22,
         "title": "Pronta per la Batracomiomachia",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/22.jpg"
+        "imgSrc": "./assets/img/22.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 23,
         "title": "Polifemo non è mitologia",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/23.jpg"
+        "imgSrc": "./assets/img/23.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 24,
         "title": "Passare inosservati",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/24.jpg"
+        "imgSrc": "./assets/img/24.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 25,
         "title": "Temere il confronto",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/25.jpg"
+        "imgSrc": "./assets/img/25.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 26,
         "title": "Pollock  lo vorrebbe così",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/26.jpg"
+        "imgSrc": "./assets/img/26.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 27,
         "title": "Io, un attimo e sparirò",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/27.jpg"
+        "imgSrc": "./assets/img/27.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 28,
         "title": "",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/28.jpg"
+        "imgSrc": "./assets/img/28.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 29,
         "title": "",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/29.jpg"
+        "imgSrc": "./assets/img/29.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 30,
         "title": "Il percorso della memoria",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/30.jpg"
+        "imgSrc": "./assets/img/30.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 31,
         "title": "",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/31.jpg"
+        "imgSrc": "./assets/img/31.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 32,
         "title": "La luce nera mi evidenzia",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/32.jpg"
+        "imgSrc": "./assets/img/32.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 33,
         "title": "Anfibio, doppia vita",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/33.jpg"
+        "imgSrc": "./assets/img/33.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 34,
         "title": "",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/34.jpg"
+        "imgSrc": "./assets/img/34.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 35,
         "title": "",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/35.jpg"
+        "imgSrc": "./assets/img/35.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 36,
         "title": "Sviluppatore nella sua Matrix",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/36.jpg"
+        "imgSrc": "./assets/img/36.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     },
     {
         "id": 37,
         "title": "Aspettando Magritte",
         "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imgSrc": "./assets/img/37.jpg"
+        "imgSrc": "./assets/img/37.jpg",
+        "diaframma": "",
+        "esposizione": "",
+        "ISO": "",
+        "posizioneVisualizzazione": "card-img"
     }
 ]
