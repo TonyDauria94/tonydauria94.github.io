@@ -177,7 +177,7 @@
         "diaframma": "f/7.1",
         "esposizione": "1/80",
         "ISO": "640",
-        "posizioneVisualizzazione": "card-img"
+        "posizioneVisualizzazione": "card-img-left"
     },
     {
         "id": 16,
@@ -189,7 +189,7 @@
         "diaframma": "f/2.8",
         "esposizione": "1/40",
         "ISO": "2000",
-        "posizioneVisualizzazione": "card-img"
+        "posizioneVisualizzazione": "card-img-bottom"
     },
     {
         "id": 17,
@@ -225,7 +225,7 @@
         "diaframma": "f/9",
         "esposizione": "1/20",
         "ISO": "800",
-        "posizioneVisualizzazione": "card-img"
+        "posizioneVisualizzazione": "card-img-right"
     },
     {
         "id": 20,
@@ -249,7 +249,7 @@
         "diaframma": "f/13",
         "esposizione": "1/60",
         "ISO": "640",
-        "posizioneVisualizzazione": "card-img"
+        "posizioneVisualizzazione": "card-img-left"
     },
     {
         "id": 22,
